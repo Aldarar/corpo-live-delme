@@ -7,7 +7,7 @@ Please keep in mind that we will take money for them from your salaries ;)
 - a nice mouse
 - phone with buttons
 - laptop stand
-- car !!!
+- car to travel to customers (and vacation)
 - DESKS
   - 8K monitor
   - ergonomic keyboard 
@@ -22,3 +22,9 @@ Please keep in mind that we will take money for them from your salaries ;)
 
 ## WORK TIME
 
+
+
+-----------------prod (release)
+--------- uat 
+-- dev 2 3 4
+-- feature branch  1 2 3 4 
