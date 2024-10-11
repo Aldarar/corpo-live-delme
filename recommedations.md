@@ -7,7 +7,7 @@ Please keep in mind that we will take money for them from your salaries ;)
 - a nice mouse
 - phone with buttons
 - laptop stand
-- sport red car
+- car to travel to customers !!
 - DESKS
   - 8K monitor
   - ergonomic keyboard 
@@ -17,8 +17,8 @@ Please keep in mind that we will take money for them from your salaries ;)
 - MORE points!!
 
 ## EVENTS
-- cinema at nights
-- bring your parents
+- cinema at NIGHTS
+- bring your parents (BYP)
 
 ## WORK TIME
 
